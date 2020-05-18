@@ -1,5 +1,6 @@
+Alderaan
 Coruscant
 Endor
-Mercúrio
-Terra
-jupter
+Tatooine
+Hoth
+Dantooine
