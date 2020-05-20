@@ -6,3 +6,9 @@ Jabba the Hutt
 Chewbacca
 Han solo
 
+Rey
+Finn
+Kylo Ren
+Poe Dameron
+
+
